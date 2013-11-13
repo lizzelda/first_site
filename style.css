@@ -1,0 +1,9 @@
+body {
+		font-family: helvetica;
+		background-color: rgba(200,0,50,.5);
+		text-align: center;
+	}
+	h1 {
+		margin: 0 auto;
+		color: rgba(0,0,0,.5);
+	}
